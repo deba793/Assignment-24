@@ -1,0 +1,11 @@
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.exe.config
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.exe
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.pdb
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\bin\Debug\EmployeeLib.dll
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\bin\Debug\EmployeeLib.pdb
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.AssemblyReference.cache
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.SuggestedBindingRedirects.cache
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.CoreCompileInputs.cache
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.CopyComplete
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.exe
+E:\Day-21\Assignment-21\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.pdb

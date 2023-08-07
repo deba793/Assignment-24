@@ -1,0 +1,11 @@
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.exe.config
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.exe
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.pdb
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\EmployeeLib.dll
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\EmployeeLib.pdb
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.AssemblyReference.cache
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.SuggestedBindingRedirects.cache
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.CoreCompileInputs.cache
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.CopyComplete
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.exe
+E:\Day-21\Assignment-21\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.pdb
